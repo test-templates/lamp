@@ -1,4 +1,4 @@
-schema-version: 1.0.0
+schema-version 1.0.0
 application-family: Application Frameworks
 application-name: LAMP
 flavor: Single Linux server
