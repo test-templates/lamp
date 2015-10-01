@@ -1,6 +1,6 @@
 schema-version: 1.0.0
 application-family: Application Frameworks
-application-name LAMP
+application-name: LAMP
 flavor: Single Linux server
 flavor-weight: 1
 reach-info:
